@@ -1,0 +1,115 @@
+8.0064 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+9.0085 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7feb433be550>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7feb433be4f0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7feb433be370>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7feb434b5c70>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.0086 	EXP 	window1: mouseVisible = True
+9.0087 	EXP 	window1: backgroundImage = ''
+9.0087 	EXP 	window1: backgroundFit = 'none'
+9.0115 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.0116 	EXP 	window1: recordFrameIntervals = False
+9.1742 	EXP 	window1: recordFrameIntervals = True
+9.4414 	EXP 	Screen (0) actual frame rate measured at 59.66Hz
+9.4415 	EXP 	window1: recordFrameIntervals = False
+9.4426 	EXP 	window1: mouseVisible = False
+12.1060 	EXP 	Framing_HieuLe: status = STARTED
+12.1072 	EXP 	window1: mouseVisible = True
+12.1076 	EXP 	window1: mouseVisible = True
+12.1085 	EXP 	window1: mouseVisible = True
+12.1092 	EXP 	window1: mouseVisible = True
+12.1188 	EXP 	window1: mouseVisible = True
+12.1190 	EXP 	window1: mouseVisible = True
+12.1196 	EXP 	window1: mouseVisible = True
+12.1201 	EXP 	window1: mouseVisible = True
+12.1395 	EXP 	window1: mouseVisible = True
+12.1398 	EXP 	window1: mouseVisible = True
+12.1400 	EXP 	window1: mouseVisible = True
+12.1407 	EXP 	window1: mouseVisible = True
+12.1413 	EXP 	window1: mouseVisible = True
+12.1485 	EXP 	window1: mouseVisible = True
+12.1487 	EXP 	window1: mouseVisible = True
+12.1493 	EXP 	window1: mouseVisible = True
+12.1499 	EXP 	window1: mouseVisible = True
+12.1570 	EXP 	window1: mouseVisible = True
+12.1573 	EXP 	window1: mouseVisible = True
+12.1673 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+12.1675 	EXP 	window1: mouseVisible = True
+12.1688 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([ 0.   , -0.015]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0234 	EXP 	Imported lists.xlsx as conditions, 2 conditions, 1 params
+0.0286 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+0.0289 	EXP 	New trial (rep=0, index=0): {'listName': 'framing1.xlsx'}
+0.0349 	EXP 	Imported framing1.xlsx as conditions, 5 conditions, 5 params
+0.0352 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+0.0354 	EXP 	New trial (rep=0, index=0): {'ItemText': 'You are deciding between buying two cars, Car A and Car B. On a car review\nwebsite, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating\nfor Car B is 3.70/5.0.', 'Question': 'Which car would you decide to purchase?', 'Option1': 'CAR A', 'Option2': 'CAR B', 'Framing': 1}
+0.1824 	EXP 	text: height = 0.03
+0.1824 	EXP 	text: height = 0.03
+0.1824 	EXP 	text: height = 0.03
+0.1824 	EXP 	text: text = 'You are deciding between buying two cars, Car A and Car B. On a car review\nwebsite, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating\nfor Car B is 3.70/5.0.'
+0.1824 	EXP 	text_2: height = 0.03
+0.1824 	EXP 	text_2: height = 0.03
+0.1824 	EXP 	text_2: height = 0.03
+0.1824 	EXP 	text_2: text = 'Which car would you decide to purchase?'
+0.1824 	EXP 	text: autoDraw = True
+0.1824 	EXP 	text_2: autoDraw = True
+8.6623 	DATA 	Mouse: Left button down, pos=(563,240)
+8.6755 	EXP 	New trial (rep=0, index=1): {'ItemText': 'At a fundraiser, you are presented with two options for a raffle ticket. For Option A,\nyou are guaranteed to win a gift card to a random restaurant valued at $5. For Option B, you\nhave a 20% chance to win a gift card to a random restaurant valued at $25.', 'Question': 'Which option would you select?', 'Option1': 'OPTION A', 'Option2': 'OPTION B', 'Framing': 1}
+8.7161 	EXP 	text: autoDraw = False
+8.7161 	EXP 	text_2: autoDraw = False
+8.7161 	EXP 	text: height = 0.03
+8.7161 	EXP 	text: height = 0.03
+8.7161 	EXP 	text: height = 0.03
+8.7161 	EXP 	text: text = 'At a fundraiser, you are presented with two options for a raffle ticket. For Option A,\nyou are guaranteed to win a gift card to a random restaurant valued at $5. For Option B, you\nhave a 20% chance to win a gift card to a random restaurant valued at $25.'
+8.7161 	EXP 	text_2: height = 0.03
+8.7161 	EXP 	text_2: height = 0.03
+8.7161 	EXP 	text_2: height = 0.03
+8.7161 	EXP 	text_2: text = 'Which option would you select?'
+8.7161 	EXP 	text: autoDraw = True
+8.7161 	EXP 	text_2: autoDraw = True
+8.7567 	DATA 	Mouse:  Left button up, pos=(563,240)
+9.5564 	DATA 	Mouse: Left button down, pos=(848,288)
+9.5580 	EXP 	New trial (rep=0, index=2): {'ItemText': 'A new vaccine is available for a deadly new disease that is sweeping across the\nworld. Scientists estimate that if 1 million people take the vaccine, 1,000 of those people will\nstill die from the disease.', 'Question': 'Would you take the vaccine, if given the opportunity?', 'Option1': 'YES', 'Option2': 'NO', 'Framing': 1}
+9.5921 	EXP 	text: autoDraw = False
+9.5921 	EXP 	text_2: autoDraw = False
+9.5921 	EXP 	text: height = 0.03
+9.5921 	EXP 	text: height = 0.03
+9.5921 	EXP 	text: height = 0.03
+9.5921 	EXP 	text: text = 'A new vaccine is available for a deadly new disease that is sweeping across the\nworld. Scientists estimate that if 1 million people take the vaccine, 1,000 of those people will\nstill die from the disease.'
+9.5921 	EXP 	text_2: height = 0.03
+9.5921 	EXP 	text_2: height = 0.03
+9.5921 	EXP 	text_2: height = 0.03
+9.5921 	EXP 	text_2: text = 'Would you take the vaccine, if given the opportunity?'
+9.5921 	EXP 	text: autoDraw = True
+9.5921 	EXP 	text_2: autoDraw = True
+9.6786 	DATA 	Mouse:  Left button up, pos=(848,288)
+10.1951 	DATA 	Mouse: Left button down, pos=(848,288)
+10.2072 	EXP 	New trial (rep=0, index=3): {'ItemText': 'A random sample of 100 lawyers and engineers is taken. The sample ends up\ncomprising 70 lawyers and 30 engineers. From this sample, one person is interviewed. He is a\n30-year-old man of high ability and high motivation. He promises to be quite successful in his\nfield. He is well liked by colleagues.', 'Question': 'Which profession do you think the man is?', 'Option1': 'ENGINEER', 'Option2': 'LAWYER', 'Framing': 1}
+10.2505 	EXP 	text: autoDraw = False
+10.2505 	EXP 	text_2: autoDraw = False
+10.2505 	EXP 	text: height = 0.03
+10.2505 	EXP 	text: height = 0.03
+10.2505 	EXP 	text: height = 0.03
+10.2505 	EXP 	text: text = 'A random sample of 100 lawyers and engineers is taken. The sample ends up\ncomprising 70 lawyers and 30 engineers. From this sample, one person is interviewed. He is a\n30-year-old man of high ability and high motivation. He promises to be quite successful in his\nfield. He is well liked by colleagues.'
+10.2505 	EXP 	text_2: height = 0.03
+10.2505 	EXP 	text_2: height = 0.03
+10.2505 	EXP 	text_2: height = 0.03
+10.2505 	EXP 	text_2: text = 'Which profession do you think the man is?'
+10.2505 	EXP 	text: autoDraw = True
+10.2505 	EXP 	text_2: autoDraw = True
+10.3117 	DATA 	Mouse:  Left button up, pos=(848,288)
+10.7286 	DATA 	Mouse: Left button down, pos=(848,288)
+10.7412 	EXP 	New trial (rep=0, index=4): {'ItemText': 'Linda is 31 years old, single, outspoken, and very bright. She majored in\nphilosophy. As a student, she was deeply concerned with issues of discrimination and social\njustice, and also participated in anti-nuclear demonstrations.', 'Question': 'Which is more probable:', 'Option1': 'Linda is a bank teller.', 'Option2': 'Linda is a bank teller who is also\ninvolved in the feminist movement.', 'Framing': 1}
+10.7911 	EXP 	text: autoDraw = False
+10.7911 	EXP 	text_2: autoDraw = False
+10.7911 	EXP 	text: height = 0.03
+10.7911 	EXP 	text: height = 0.03
+10.7911 	EXP 	text: height = 0.03
+10.7911 	EXP 	text: text = 'Linda is 31 years old, single, outspoken, and very bright. She majored in\nphilosophy. As a student, she was deeply concerned with issues of discrimination and social\njustice, and also participated in anti-nuclear demonstrations.'
+10.7911 	EXP 	text_2: height = 0.03
+10.7911 	EXP 	text_2: height = 0.03
+10.7911 	EXP 	text_2: height = 0.03
+10.7911 	EXP 	text_2: text = 'Which is more probable:'
+10.7911 	EXP 	text: autoDraw = True
+10.7911 	EXP 	text_2: autoDraw = True
+10.8067 	DATA 	Mouse:  Left button up, pos=(848,288)
+11.4287 	DATA 	Mouse: Left button down, pos=(848,288)
+11.4557 	EXP 	text: autoDraw = False
+11.4557 	EXP 	text_2: autoDraw = False
+11.4558 	EXP 	Framing_HieuLe: status = STOPPED
+11.4868 	EXP 	window1: mouseVisible = True

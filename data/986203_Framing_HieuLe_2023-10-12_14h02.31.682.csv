@@ -1,0 +1,13 @@
+﻿listName,ItemText,Question,Option1,Option2,Framing,conditions.thisRepN,conditions.thisTrialN,conditions.thisN,conditions.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,button.started,button_2.started,text.started,text_2.started,trial.stopped,button.numClicks,button.timesOn,button.timesOff,button_2.numClicks,button_2.timesOn,button_2.timesOff,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+framing2.xlsx,"A random sample of 100 lawyers and engineers is taken. The sample ends up
+comprising 70 engineers and 30 lawyers. From this sample, one person is interviewed. He is a
+30-year-old man of high ability and high motivation. He promises to be quite successful in his
+field. He is well liked by colleagues.",Which profession do you think the man is?,ENGINEER,LAWYER,2,0,0,0,1,0,0,0,1,0.131667707930319,,0.025979166966862977,0.131667707930319,0.131667707930319,0.131667707930319,0.131667707930319,35.77878495794721,0,,,1,[35.669039416941814],[35.66904591699131],986203,001,2023-10-12_14h02.31.682,Framing_HieuLe,2023.2.1,60.03971648400941,2023-10-12 14h02.37.129179 -0500,
+framing2.xlsx,"You are deciding between buying two cars, Car A and Car B. On a car review
+website, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating
+for Car B is 3.70/5.0. Your neighbor recently purchased Car B and found that it is excellent, and
+she would recommend purchasing it.",Which car would you decide to purchase?,CAR A,CAR B,2,0,0,0,1,0,1,1,2,35.82491087494418,,35.779776167008094,35.82491087494418,35.82491087494418,35.82491087494418,35.82491087494418,36.87718945799861,1,[1.0624316659523174],[1.062436957960017],0,,,986203,001,2023-10-12_14h02.31.682,Framing_HieuLe,2023.2.1,60.03971648400941,2023-10-12 14h02.37.129179 -0500,
+framing2.xlsx,"At a fundraiser, you are presented with two options for a raffle ticket. For Option A,
+you are guaranteed to win a gift card to a random restaurant valued at $50. For Option B, you
+have a 20% chance to win a gift card to a random restaurant valued at $250.",Which option would you select?,OPTION A,OPTION B,2,0,0,0,1,0,2,2,3,36.912594874971546,,36.87779316690285,36.912594874971546,36.912594874971546,36.912594874971546,36.912594874971546,38.044569958001375,0,,,1,[1.1416306670289487],[1.1416357919806615],986203,001,2023-10-12_14h02.31.682,Framing_HieuLe,2023.2.1,60.03971648400941,2023-10-12 14h02.37.129179 -0500,
+,,,,,,,,,,,,,,38.07567166700028,,38.04518812499009,38.07567166700028,38.07567166700028,38.07567166700028,38.07567166700028,,,,,,,,,,,,,,,

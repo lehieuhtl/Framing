@@ -1,0 +1,5 @@
+﻿listName,ItemText,Question,Option1,Option2,Framing,conditions.thisRepN,conditions.thisTrialN,conditions.thisN,conditions.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,button.started,button_2.started,text.started,trial.stopped,button.numClicks,button.timesOn,button.timesOff,button_2.numClicks,button_2.timesOn,button_2.timesOff,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+framing1.xlsx,"A new vaccine is available for a deadly new disease that is sweeping across the
+world. Scientists estimate that if 1 million people take the vaccine, 1,000 of those people will
+still die from the disease.","Would you take the vaccine, if given the opportunity?",YES,NO,1,0,0,0,0,0,0,0,0,0.11754716595169157,,0.025633875047788024,0.11754716595169157,0.11754716595169157,0.11754716595169157,24.32776166603435,1,[24.223922292003408],[24.223928833031096],0,,,025920,001,2023-10-12_13h50.53.716,Framing_HieuLe,2023.2.1,59.994750468251596,2023-10-12 13h50.59.200093 -0500,
+,,,,,,,,,,,,,,24.38260008301586,,24.328867958043702,24.38260008301586,24.38260008301586,24.38260008301586,,,,,,,,,,,,,,,

@@ -1,0 +1,19 @@
+﻿listName,ItemText,Question,Option1,Option2,Framing,conditions.thisRepN,conditions.thisTrialN,conditions.thisN,conditions.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,button.started,button_2.started,text.started,text_2.started,trial.stopped,button.numClicks,button.timesOn,button.timesOff,button_2.numClicks,button_2.timesOn,button_2.timesOff,code.started,code.stopped,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+framing2.xlsx,"Linda is 31 years old, single, outspoken, and very bright. She majored in economics.
+As a student, she was deeply concerned with issues of individual liberty, low taxes, and also
+participated in “small government” demonstrations. Which is more probable?",Which is more probable:,Linda is a bank teller.,"Linda is a bank teller who is also
+involved in the feminist movement.",2,0,0,0,1,0,0,0,4,0.12753879209049046,,0.02742300007957965,0.12753879209049046,0.12753879209049046,0.12753879209049046,0.12753879209049046,4.561616791994311,1,[4.450017666094936],[4.450023083016276],0,,,,,044170,001,2023-10-15_19h53.07.490,Framing_HieuLe,2023.2.1,59.92742790427864,2023-10-15 19h53.14.015665 -0500,
+framing2.xlsx,"You are deciding between buying two cars, Car A and Car B. On a car review
+website, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating
+for Car B is 3.70/5.0. Your neighbor recently purchased Car B and found that it is excellent, and
+she would recommend purchasing it.",Which car would you decide to purchase?,CAR A,CAR B,2,0,0,0,1,0,1,1,2,4.611457333085127,,4.5626478750491515,4.611457333085127,4.611457333085127,4.611457333085127,4.611457333085127,5.81171512498986,0,,,1,[1.2103889579884708],[1.2103938750224188],,,044170,001,2023-10-15_19h53.07.490,Framing_HieuLe,2023.2.1,59.92742790427864,2023-10-15 19h53.14.015665 -0500,
+framing2.xlsx,"A new vaccine is available for a deadly new disease that is sweeping across the
+world. Scientists estimate that 99.9% of people who take vaccine will not die from the disease.","Would you take the vaccine, if given the opportunity?",YES,NO,2,0,0,0,1,0,2,2,0,5.851918542059138,,5.812303667073138,5.851918542059138,5.851918542059138,5.851918542059138,5.851918542059138,6.878363875090145,1,[1.0362962080398574],[1.0363013329915702],0,,,,,044170,001,2023-10-15_19h53.07.490,Framing_HieuLe,2023.2.1,59.92742790427864,2023-10-15 19h53.14.015665 -0500,
+framing2.xlsx,"A random sample of 100 lawyers and engineers is taken. The sample ends up
+comprising 70 engineers and 30 lawyers. From this sample, one person is interviewed. He is a
+30-year-old man of high ability and high motivation. He promises to be quite successful in his
+field. He is well liked by colleagues.",Which profession do you think the man is?,ENGINEER,LAWYER,2,0,0,0,1,0,3,3,1,6.921483500045724,,6.87896866700612,6.921483500045724,6.921483500045724,6.921483500045724,6.921483500045724,7.912769917049445,0,,,1,[1.0012285830453038],[1.001233792048879],,,044170,001,2023-10-15_19h53.07.490,Framing_HieuLe,2023.2.1,59.92742790427864,2023-10-15 19h53.14.015665 -0500,
+framing2.xlsx,"At a fundraiser, you are presented with two options for a raffle ticket. For Option A,
+you are guaranteed to win a gift card to a random restaurant valued at $50. For Option B, you
+have a 20% chance to win a gift card to a random restaurant valued at $250.",Which option would you select?,OPTION A,OPTION B,2,0,0,0,1,0,4,4,3,7.946872167056426,,7.91336833301466,7.946872167056426,7.946872167056426,7.946872167056426,7.946872167056426,8.946231874986552,1,[1.009188542026095],[1.0091938331024721],0,,,,,044170,001,2023-10-15_19h53.07.490,Framing_HieuLe,2023.2.1,59.92742790427864,2023-10-15 19h53.14.015665 -0500,
+framing2.xlsx,,,,,,0,0,0,1,,,,,,,,,,,,,,,,,,,8.946771792019717,8.947009792085737,044170,001,2023-10-15_19h53.07.490,Framing_HieuLe,2023.2.1,59.92742790427864,2023-10-15 19h53.14.015665 -0500,

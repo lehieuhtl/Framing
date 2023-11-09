@@ -1,0 +1,19 @@
+﻿listName,ItemText,Question,Option1,Option2,Framing,conditions.thisRepN,conditions.thisTrialN,conditions.thisN,conditions.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,button.started,button_2.started,text.started,text_2.started,trial.stopped,button.numClicks,button.timesOn,button.timesOff,button_2.numClicks,button_2.timesOn,button_2.timesOff,code.started,code.stopped,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+framing1.xlsx,"You are deciding between buying two cars, Car A and Car B. On a car review
+website, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating
+for Car B is 3.70/5.0.",Which car would you decide to purchase?,CAR A,CAR B,1,0,0,0,0,0,0,0,2,0.18239650002215058,,0.03540150006301701,0.18239650002215058,0.18239650002215058,0.18239650002215058,0.18239650002215058,8.674499541986734,1,[8.56164904194884],[8.56165812490508],0,,,,,362084,001,2023-10-15_19h48.13.346,Framing_HieuLe,2023.2.1,59.656542515956076,2023-10-15 19h48.20.381143 -0500,
+framing1.xlsx,"At a fundraiser, you are presented with two options for a raffle ticket. For Option A,
+you are guaranteed to win a gift card to a random restaurant valued at $5. For Option B, you
+have a 20% chance to win a gift card to a random restaurant valued at $25.",Which option would you select?,OPTION A,OPTION B,1,0,0,0,0,0,1,1,3,8.716144250007346,,8.675479625002481,8.716144250007346,8.716144250007346,8.716144250007346,8.716144250007346,9.557474291999824,0,,,1,[0.8510879169916734],[0.8510932920034975],,,362084,001,2023-10-15_19h48.13.346,Framing_HieuLe,2023.2.1,59.656542515956076,2023-10-15 19h48.20.381143 -0500,
+framing1.xlsx,"A new vaccine is available for a deadly new disease that is sweeping across the
+world. Scientists estimate that if 1 million people take the vaccine, 1,000 of those people will
+still die from the disease.","Would you take the vaccine, if given the opportunity?",YES,NO,1,0,0,0,0,0,2,2,0,9.592075083986856,,9.55806712503545,9.592075083986856,9.592075083986856,9.592075083986856,9.592075083986856,10.206585000036284,0,,,1,[0.6243167080683634],[0.6243218330200762],,,362084,001,2023-10-15_19h48.13.346,Framing_HieuLe,2023.2.1,59.656542515956076,2023-10-15 19h48.20.381143 -0500,
+framing1.xlsx,"A random sample of 100 lawyers and engineers is taken. The sample ends up
+comprising 70 lawyers and 30 engineers. From this sample, one person is interviewed. He is a
+30-year-old man of high ability and high motivation. He promises to be quite successful in his
+field. He is well liked by colleagues.",Which profession do you think the man is?,ENGINEER,LAWYER,1,0,0,0,0,0,3,3,1,10.250504625029862,,10.207206708961166,10.250504625029862,10.250504625029862,10.250504625029862,10.250504625029862,10.740646500024013,0,,,1,[0.49995324993506074],[0.4999587079510093],,,362084,001,2023-10-15_19h48.13.346,Framing_HieuLe,2023.2.1,59.656542515956076,2023-10-15 19h48.20.381143 -0500,
+framing1.xlsx,"Linda is 31 years old, single, outspoken, and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social
+justice, and also participated in anti-nuclear demonstrations.",Which is more probable:,Linda is a bank teller.,"Linda is a bank teller who is also
+involved in the feminist movement.",1,0,0,0,0,0,4,4,4,10.791078125010245,,10.741244249977171,10.791078125010245,10.791078125010245,10.791078125010245,10.791078125010245,11.44014583399985,0,,,1,[0.6589762909570709],[0.6589815409388393],,,362084,001,2023-10-15_19h48.13.346,Framing_HieuLe,2023.2.1,59.656542515956076,2023-10-15 19h48.20.381143 -0500,
+framing1.xlsx,,,,,,0,0,0,0,,,,,,,,,,,,,,,,,,,11.440690958988853,11.440919084008783,362084,001,2023-10-15_19h48.13.346,Framing_HieuLe,2023.2.1,59.656542515956076,2023-10-15 19h48.20.381143 -0500,

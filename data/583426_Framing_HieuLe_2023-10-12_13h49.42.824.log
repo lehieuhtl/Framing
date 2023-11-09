@@ -1,0 +1,66 @@
+6.3699 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+7.1572 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f87ed582430>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f87ed5823d0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f87ed582250>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f87ebbb0a00>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.1573 	EXP 	window1: mouseVisible = True
+7.1573 	EXP 	window1: backgroundImage = ''
+7.1573 	EXP 	window1: backgroundFit = 'none'
+7.1598 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.1599 	EXP 	window1: recordFrameIntervals = False
+7.3238 	EXP 	window1: recordFrameIntervals = True
+7.5071 	EXP 	Screen (0) actual frame rate measured at 60.06Hz
+7.5071 	EXP 	window1: recordFrameIntervals = False
+7.5084 	EXP 	window1: mouseVisible = False
+10.2060 	EXP 	Framing_HieuLe: status = STARTED
+10.2068 	EXP 	window1: mouseVisible = True
+10.2071 	EXP 	window1: mouseVisible = True
+10.2079 	EXP 	window1: mouseVisible = True
+10.2086 	EXP 	window1: mouseVisible = True
+10.2184 	EXP 	window1: mouseVisible = True
+10.2185 	EXP 	window1: mouseVisible = True
+10.2191 	EXP 	window1: mouseVisible = True
+10.2197 	EXP 	window1: mouseVisible = True
+10.2494 	EXP 	window1: mouseVisible = True
+10.2497 	EXP 	window1: mouseVisible = True
+10.2499 	EXP 	window1: mouseVisible = True
+10.2506 	EXP 	window1: mouseVisible = True
+10.2512 	EXP 	window1: mouseVisible = True
+10.2582 	EXP 	window1: mouseVisible = True
+10.2583 	EXP 	window1: mouseVisible = True
+10.2589 	EXP 	window1: mouseVisible = True
+10.2595 	EXP 	window1: mouseVisible = True
+10.2664 	EXP 	window1: mouseVisible = True
+10.2667 	EXP 	window1: mouseVisible = True
+10.2756 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0195 	EXP 	Imported lists.xlsx as conditions, 2 conditions, 1 params
+0.0202 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+0.0204 	EXP 	New trial (rep=0, index=0): {'listName': 'framing1.xlsx'}
+0.0264 	EXP 	Imported framing1.xlsx as conditions, 5 conditions, 5 params
+0.0268 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+0.0269 	EXP 	New trial (rep=0, index=0): {'ItemText': 'You are deciding between buying two cars, Car A and Car B. On a car review\nwebsite, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating\nfor Car B is 3.70/5.0.', 'Question': 'Which car would you decide to purchase?', 'Option1': 'CAR A', 'Option2': 'CAR B', 'Framing': 1}
+0.1202 	EXP 	text: height = 0.05
+0.1202 	EXP 	text: height = 0.05
+0.1202 	EXP 	text: height = 0.05
+0.1202 	EXP 	text: text = 'You are deciding between buying two cars, Car A and Car B. On a car review\nwebsite, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating\nfor Car B is 3.70/5.0.'
+0.1202 	EXP 	text: autoDraw = True
+5.7984 	DATA 	Mouse: Left button down, pos=(910,293)
+5.8011 	EXP 	New trial (rep=0, index=1): {'ItemText': 'Linda is 31 years old, single, outspoken, and very bright. She majored in\nphilosophy. As a student, she was deeply concerned with issues of discrimination and social\njustice, and also participated in anti-nuclear demonstrations.', 'Question': 'Which is more probable:', 'Option1': 'Linda is a bank teller.', 'Option2': 'Linda is a bank teller who is also\ninvolved in the feminist movement.', 'Framing': 1}
+5.8864 	EXP 	text: autoDraw = False
+5.8864 	EXP 	text: height = 0.05
+5.8864 	EXP 	text: height = 0.05
+5.8864 	EXP 	text: height = 0.05
+5.8864 	EXP 	text: text = 'Linda is 31 years old, single, outspoken, and very bright. She majored in\nphilosophy. As a student, she was deeply concerned with issues of discrimination and social\njustice, and also participated in anti-nuclear demonstrations.'
+5.8864 	EXP 	text: autoDraw = True
+5.9324 	DATA 	Mouse:  Left button up, pos=(910,293)
+7.6650 	DATA 	Mouse: Left button down, pos=(898,293)
+7.6666 	EXP 	New trial (rep=0, index=2): {'ItemText': 'At a fundraiser, you are presented with two options for a raffle ticket. For Option A,\nyou are guaranteed to win a gift card to a random restaurant valued at $5. For Option B, you\nhave a 20% chance to win a gift card to a random restaurant valued at $25.', 'Question': 'Which option would you select?', 'Option1': 'OPTION A', 'Option2': 'OPTION B', 'Framing': 1}
+7.7135 	EXP 	text: autoDraw = False
+7.7135 	EXP 	text: height = 0.05
+7.7135 	EXP 	text: height = 0.05
+7.7135 	EXP 	text: height = 0.05
+7.7135 	EXP 	text: text = 'At a fundraiser, you are presented with two options for a raffle ticket. For Option A,\nyou are guaranteed to win a gift card to a random restaurant valued at $5. For Option B, you\nhave a 20% chance to win a gift card to a random restaurant valued at $25.'
+7.7135 	EXP 	text: autoDraw = True
+7.7816 	DATA 	Mouse:  Left button up, pos=(898,293)
+10.6699 	DATA 	Keypress: escape
+10.7489 	EXP 	Framing_HieuLe: status = STOPPED
+10.7641 	EXP 	text: autoDraw = False
+10.7642 	EXP 	Framing_HieuLe: status = STOPPED
+10.7907 	EXP 	window1: mouseVisible = True

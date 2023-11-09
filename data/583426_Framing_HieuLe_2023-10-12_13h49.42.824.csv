@@ -1,0 +1,9 @@
+﻿listName,ItemText,Question,Option1,Option2,Framing,conditions.thisRepN,conditions.thisTrialN,conditions.thisN,conditions.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,button.started,button_2.started,text.started,trial.stopped,button.numClicks,button.timesOn,button.timesOff,button_2.numClicks,button_2.timesOn,button_2.timesOff,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+framing1.xlsx,"You are deciding between buying two cars, Car A and Car B. On a car review
+website, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating
+for Car B is 3.70/5.0.",Which car would you decide to purchase?,CAR A,CAR B,1,0,0,0,0,0,0,0,2,0.12020104203838855,,0.02693779207766056,0.12020104203838855,0.12020104203838855,0.12020104203838855,5.800098292063922,0,,,1,[5.694056459004059],[5.694062708993442],583426,001,2023-10-12_13h49.42.824,Framing_HieuLe,2023.2.1,60.06091680472695,2023-10-12 13h49.48.378007 -0500,
+framing1.xlsx,"Linda is 31 years old, single, outspoken, and very bright. She majored in
+philosophy. As a student, she was deeply concerned with issues of discrimination and social
+justice, and also participated in anti-nuclear demonstrations.",Which is more probable:,Linda is a bank teller.,"Linda is a bank teller who is also
+involved in the feminist movement.",1,0,0,0,0,0,1,1,4,5.886404459015466,,5.80110058397986,5.886404459015466,5.886404459015466,5.886404459015466,7.666052042040974,0,,,1,[1.7891037920489907],[1.7891091250348836],583426,001,2023-10-12_13h49.42.824,Framing_HieuLe,2023.2.1,60.06091680472695,2023-10-12 13h49.48.378007 -0500,
+,,,,,,,,,,,,,,7.7134830839931965,,7.66665583406575,7.7134830839931965,7.7134830839931965,7.7134830839931965,,,,,,,,,,,,,,,

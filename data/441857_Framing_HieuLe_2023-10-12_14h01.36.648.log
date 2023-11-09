@@ -1,0 +1,101 @@
+6.7092 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+7.4953 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa0eb05a550>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa0eb05a4f0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa0eb05a370>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fa0eb430b20>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.4956 	EXP 	window1: mouseVisible = True
+7.4956 	EXP 	window1: backgroundImage = ''
+7.4956 	EXP 	window1: backgroundFit = 'none'
+7.4988 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.4988 	EXP 	window1: recordFrameIntervals = False
+7.6617 	EXP 	window1: recordFrameIntervals = True
+7.8451 	EXP 	Screen (0) actual frame rate measured at 60.04Hz
+7.8451 	EXP 	window1: recordFrameIntervals = False
+7.8462 	EXP 	window1: mouseVisible = False
+10.5490 	EXP 	Framing_HieuLe: status = STARTED
+10.5498 	EXP 	window1: mouseVisible = True
+10.5501 	EXP 	window1: mouseVisible = True
+10.5509 	EXP 	window1: mouseVisible = True
+10.5515 	EXP 	window1: mouseVisible = True
+10.5608 	EXP 	window1: mouseVisible = True
+10.5610 	EXP 	window1: mouseVisible = True
+10.5616 	EXP 	window1: mouseVisible = True
+10.5622 	EXP 	window1: mouseVisible = True
+10.5814 	EXP 	window1: mouseVisible = True
+10.5817 	EXP 	window1: mouseVisible = True
+10.5819 	EXP 	window1: mouseVisible = True
+10.5825 	EXP 	window1: mouseVisible = True
+10.5832 	EXP 	window1: mouseVisible = True
+10.5903 	EXP 	window1: mouseVisible = True
+10.5904 	EXP 	window1: mouseVisible = True
+10.5910 	EXP 	window1: mouseVisible = True
+10.5917 	EXP 	window1: mouseVisible = True
+10.5981 	EXP 	window1: mouseVisible = True
+10.5984 	EXP 	window1: mouseVisible = True
+10.6065 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.6067 	EXP 	window1: mouseVisible = True
+10.6080 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([ 0.  , -0.02]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0178 	EXP 	Imported lists.xlsx as conditions, 2 conditions, 1 params
+0.0185 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+0.0188 	EXP 	New trial (rep=0, index=0): {'listName': 'framing2.xlsx'}
+0.0245 	EXP 	Imported framing2.xlsx as conditions, 5 conditions, 5 params
+0.0249 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+0.0250 	EXP 	New trial (rep=0, index=0): {'ItemText': 'A new vaccine is available for a deadly new disease that is sweeping across the\nworld. Scientists estimate that 99.9% of people who take vaccine will not die from the disease.', 'Question': 'Would you take the vaccine, if given the opportunity?', 'Option1': 'YES', 'Option2': 'NO', 'Framing': 2}
+0.1197 	EXP 	text: height = 0.03
+0.1197 	EXP 	text: height = 0.03
+0.1197 	EXP 	text: height = 0.03
+0.1197 	EXP 	text: text = 'A new vaccine is available for a deadly new disease that is sweeping across the\nworld. Scientists estimate that 99.9% of people who take vaccine will not die from the disease.'
+0.1197 	EXP 	text_2: height = 0.03
+0.1197 	EXP 	text_2: height = 0.03
+0.1197 	EXP 	text_2: height = 0.03
+0.1197 	EXP 	text_2: text = 'Would you take the vaccine, if given the opportunity?'
+0.1197 	EXP 	text: autoDraw = True
+0.1197 	EXP 	text_2: autoDraw = True
+2.5766 	DATA 	Mouse: Left button down, pos=(889,251)
+2.5903 	EXP 	New trial (rep=0, index=1): {'ItemText': 'At a fundraiser, you are presented with two options for a raffle ticket. For Option A,\nyou are guaranteed to win a gift card to a random restaurant valued at $50. For Option B, you\nhave a 20% chance to win a gift card to a random restaurant valued at $250.', 'Question': 'Which option would you select?', 'Option1': 'OPTION A', 'Option2': 'OPTION B', 'Framing': 2}
+2.6347 	EXP 	text: autoDraw = False
+2.6347 	EXP 	text_2: autoDraw = False
+2.6347 	EXP 	text: height = 0.03
+2.6347 	EXP 	text: height = 0.03
+2.6347 	EXP 	text: height = 0.03
+2.6347 	EXP 	text: text = 'At a fundraiser, you are presented with two options for a raffle ticket. For Option A,\nyou are guaranteed to win a gift card to a random restaurant valued at $50. For Option B, you\nhave a 20% chance to win a gift card to a random restaurant valued at $250.'
+2.6347 	EXP 	text_2: height = 0.03
+2.6347 	EXP 	text_2: height = 0.03
+2.6347 	EXP 	text_2: height = 0.03
+2.6347 	EXP 	text_2: text = 'Which option would you select?'
+2.6347 	EXP 	text: autoDraw = True
+2.6347 	EXP 	text_2: autoDraw = True
+2.6879 	DATA 	Mouse:  Left button up, pos=(889,251)
+8.0716 	DATA 	Mouse: Left button down, pos=(891,271)
+8.0736 	EXP 	New trial (rep=0, index=2): {'ItemText': 'You are deciding between buying two cars, Car A and Car B. On a car review\nwebsite, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating\nfor Car B is 3.70/5.0. Your neighbor recently purchased Car B and found that it is excellent, and\nshe would recommend purchasing it.', 'Question': 'Which car would you decide to purchase?', 'Option1': 'CAR A', 'Option2': 'CAR B', 'Framing': 2}
+8.1141 	EXP 	text: autoDraw = False
+8.1141 	EXP 	text_2: autoDraw = False
+8.1141 	EXP 	text: height = 0.03
+8.1141 	EXP 	text: height = 0.03
+8.1141 	EXP 	text: height = 0.03
+8.1141 	EXP 	text: text = 'You are deciding between buying two cars, Car A and Car B. On a car review\nwebsite, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating\nfor Car B is 3.70/5.0. Your neighbor recently purchased Car B and found that it is excellent, and\nshe would recommend purchasing it.'
+8.1141 	EXP 	text_2: height = 0.03
+8.1141 	EXP 	text_2: height = 0.03
+8.1141 	EXP 	text_2: height = 0.03
+8.1141 	EXP 	text_2: text = 'Which car would you decide to purchase?'
+8.1141 	EXP 	text: autoDraw = True
+8.1141 	EXP 	text_2: autoDraw = True
+8.2047 	DATA 	Mouse:  Left button up, pos=(891,271)
+12.9723 	DATA 	Mouse: Left button down, pos=(588,271)
+12.9744 	EXP 	New trial (rep=0, index=3): {'ItemText': 'Linda is 31 years old, single, outspoken, and very bright. She majored in economics.\nAs a student, she was deeply concerned with issues of individual liberty, low taxes, and also\nparticipated in “small government” demonstrations. Which is more probable?', 'Question': 'Which is more probable:', 'Option1': 'Linda is a bank teller.', 'Option2': 'Linda is a bank teller who is also\ninvolved in the feminist movement.', 'Framing': 2}
+13.0278 	EXP 	text: autoDraw = False
+13.0278 	EXP 	text_2: autoDraw = False
+13.0278 	EXP 	text: height = 0.03
+13.0278 	EXP 	text: height = 0.03
+13.0278 	EXP 	text: height = 0.03
+13.0278 	EXP 	text: text = 'Linda is 31 years old, single, outspoken, and very bright. She majored in economics.\nAs a student, she was deeply concerned with issues of individual liberty, low taxes, and also\nparticipated in “small government” demonstrations. Which is more probable?'
+13.0278 	EXP 	text_2: height = 0.03
+13.0278 	EXP 	text_2: height = 0.03
+13.0278 	EXP 	text_2: height = 0.03
+13.0278 	EXP 	text_2: text = 'Which is more probable:'
+13.0278 	EXP 	text: autoDraw = True
+13.0278 	EXP 	text_2: autoDraw = True
+13.0548 	DATA 	Mouse:  Left button up, pos=(588,271)
+22.1598 	DATA 	Keypress: escape
+22.2054 	EXP 	Framing_HieuLe: status = STOPPED
+22.2206 	EXP 	text: autoDraw = False
+22.2206 	EXP 	text_2: autoDraw = False
+22.2206 	EXP 	Framing_HieuLe: status = STOPPED
+22.2484 	EXP 	window1: mouseVisible = True

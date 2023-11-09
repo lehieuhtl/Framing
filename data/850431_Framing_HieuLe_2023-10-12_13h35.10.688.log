@@ -1,0 +1,54 @@
+7.0413 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+7.8104 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8085ada6d0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8085ada670>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f8085ada4f0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f8085cecdf0>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.8105 	EXP 	window1: mouseVisible = True
+7.8105 	EXP 	window1: backgroundImage = ''
+7.8105 	EXP 	window1: backgroundFit = 'none'
+7.8130 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+7.8130 	EXP 	window1: recordFrameIntervals = False
+7.9775 	EXP 	window1: recordFrameIntervals = True
+8.1602 	EXP 	Screen (0) actual frame rate measured at 60.14Hz
+8.1603 	EXP 	window1: recordFrameIntervals = False
+8.1611 	EXP 	window1: mouseVisible = False
+10.6357 	EXP 	Framing_HieuLe: status = STARTED
+10.6369 	EXP 	window1: mouseVisible = True
+10.6372 	EXP 	window1: mouseVisible = True
+10.6381 	EXP 	window1: mouseVisible = True
+10.6387 	EXP 	window1: mouseVisible = True
+10.6483 	EXP 	window1: mouseVisible = True
+10.6485 	EXP 	window1: mouseVisible = True
+10.6491 	EXP 	window1: mouseVisible = True
+10.6497 	EXP 	window1: mouseVisible = True
+10.6782 	EXP 	window1: mouseVisible = True
+10.6786 	EXP 	window1: mouseVisible = True
+10.6787 	EXP 	window1: mouseVisible = True
+10.6793 	EXP 	window1: mouseVisible = True
+10.6799 	EXP 	window1: mouseVisible = True
+10.6870 	EXP 	window1: mouseVisible = True
+10.6871 	EXP 	window1: mouseVisible = True
+10.6877 	EXP 	window1: mouseVisible = True
+10.6883 	EXP 	window1: mouseVisible = True
+10.6947 	EXP 	window1: mouseVisible = True
+10.6950 	EXP 	window1: mouseVisible = True
+10.7275 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0176 	EXP 	Imported lists.xlsx as conditions, 2 conditions, 1 params
+0.0200 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+0.0203 	EXP 	New trial (rep=0, index=0): {'listName': 'framing2.xlsx'}
+0.0269 	EXP 	Imported framing2.xlsx as conditions, 5 conditions, 5 params
+0.0273 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+0.0274 	EXP 	New trial (rep=0, index=0): {'ItemText': 'A new vaccine is available for a deadly new disease that is sweeping across the\nworld. Scientists estimate that 99.9% of people who take vaccine will not die from the disease.', 'Question': 'Would you take the vaccine, if given the opportunity?', 'Option1': 'YES', 'Option2': 'NO', 'Framing': 2}
+0.0474 	EXP 	text: autoDraw = True
+9.2051 	DATA 	Mouse: Left button down, pos=(822,440)
+9.3177 	DATA 	Mouse:  Left button up, pos=(822,440)
+9.8331 	DATA 	Mouse: Left button down, pos=(764,497)
+9.9548 	DATA 	Mouse:  Left button up, pos=(764,497)
+10.3833 	DATA 	Mouse: Left button down, pos=(463,408)
+10.5006 	DATA 	Mouse:  Left button up, pos=(462,408)
+10.8503 	DATA 	Mouse: Left button down, pos=(828,426)
+10.9668 	DATA 	Mouse:  Left button up, pos=(828,425)
+11.2667 	DATA 	Mouse: Left button down, pos=(922,443)
+11.3832 	DATA 	Mouse:  Left button up, pos=(922,443)
+12.7247 	DATA 	Keypress: escape
+12.7838 	EXP 	Framing_HieuLe: status = STOPPED
+12.7988 	EXP 	text: autoDraw = False
+12.7988 	EXP 	Framing_HieuLe: status = STOPPED
+12.8268 	EXP 	window1: mouseVisible = True

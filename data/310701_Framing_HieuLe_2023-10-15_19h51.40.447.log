@@ -1,0 +1,71 @@
+8.3396 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+9.1104 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f858cc26550>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f858cc264f0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f858cc26370>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f858be05c70>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+9.1106 	EXP 	window1: mouseVisible = True
+9.1106 	EXP 	window1: backgroundImage = ''
+9.1106 	EXP 	window1: backgroundFit = 'none'
+9.1131 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+9.1132 	EXP 	window1: recordFrameIntervals = False
+9.2770 	EXP 	window1: recordFrameIntervals = True
+9.4605 	EXP 	Screen (0) actual frame rate measured at 60.01Hz
+9.4605 	EXP 	window1: recordFrameIntervals = False
+9.4616 	EXP 	window1: mouseVisible = False
+12.1307 	EXP 	Framing_HieuLe: status = STARTED
+12.1315 	EXP 	window1: mouseVisible = True
+12.1318 	EXP 	window1: mouseVisible = True
+12.1326 	EXP 	window1: mouseVisible = True
+12.1332 	EXP 	window1: mouseVisible = True
+12.1424 	EXP 	window1: mouseVisible = True
+12.1426 	EXP 	window1: mouseVisible = True
+12.1433 	EXP 	window1: mouseVisible = True
+12.1439 	EXP 	window1: mouseVisible = True
+12.1620 	EXP 	window1: mouseVisible = True
+12.1623 	EXP 	window1: mouseVisible = True
+12.1625 	EXP 	window1: mouseVisible = True
+12.1631 	EXP 	window1: mouseVisible = True
+12.1637 	EXP 	window1: mouseVisible = True
+12.1707 	EXP 	window1: mouseVisible = True
+12.1709 	EXP 	window1: mouseVisible = True
+12.1715 	EXP 	window1: mouseVisible = True
+12.1721 	EXP 	window1: mouseVisible = True
+12.1791 	EXP 	window1: mouseVisible = True
+12.1794 	EXP 	window1: mouseVisible = True
+12.1872 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0.  , 0.25]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+12.1874 	EXP 	window1: mouseVisible = True
+12.1887 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.03, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0.  , 0.01]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0185 	EXP 	Imported lists.xlsx as conditions, 2 conditions, 1 params
+0.0192 	EXP 	Created sequence: random, trialTypes=2, nReps=1, seed=None
+0.0194 	EXP 	New trial (rep=0, index=0): {'listName': 'framing1.xlsx'}
+0.0252 	EXP 	Imported framing1.xlsx as conditions, 5 conditions, 5 params
+0.0256 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+0.0257 	EXP 	New trial (rep=0, index=0): {'ItemText': 'You are deciding between buying two cars, Car A and Car B. On a car review\nwebsite, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating\nfor Car B is 3.70/5.0.', 'Question': 'Which car would you decide to purchase?', 'Option1': 'CAR A', 'Option2': 'CAR B', 'Framing': 1}
+0.1117 	EXP 	text: height = 0.03
+0.1117 	EXP 	text: height = 0.03
+0.1117 	EXP 	text: height = 0.03
+0.1117 	EXP 	text: text = 'You are deciding between buying two cars, Car A and Car B. On a car review\nwebsite, you find that the average of 1,000 ratings for Car A is a 4.95/5.0 and the average rating\nfor Car B is 3.70/5.0.'
+0.1117 	EXP 	text_2: height = 0.03
+0.1117 	EXP 	text_2: height = 0.03
+0.1117 	EXP 	text_2: height = 0.03
+0.1117 	EXP 	text_2: text = 'Which car would you decide to purchase?'
+0.1117 	EXP 	text: autoDraw = True
+0.1117 	EXP 	text_2: autoDraw = True
+4.6106 	DATA 	Mouse: Left button down, pos=(574,309)
+4.6237 	EXP 	New trial (rep=0, index=1): {'ItemText': 'A new vaccine is available for a deadly new disease that is sweeping across the\nworld. Scientists estimate that if 1 million people take the vaccine, 1,000 of those people will\nstill die from the disease.', 'Question': 'Would you take the vaccine, if given the opportunity?', 'Option1': 'YES', 'Option2': 'NO', 'Framing': 1}
+4.6635 	EXP 	text: autoDraw = False
+4.6635 	EXP 	text_2: autoDraw = False
+4.6635 	EXP 	text: height = 0.03
+4.6635 	EXP 	text: height = 0.03
+4.6635 	EXP 	text: height = 0.03
+4.6635 	EXP 	text: text = 'A new vaccine is available for a deadly new disease that is sweeping across the\nworld. Scientists estimate that if 1 million people take the vaccine, 1,000 of those people will\nstill die from the disease.'
+4.6635 	EXP 	text_2: height = 0.03
+4.6635 	EXP 	text_2: height = 0.03
+4.6635 	EXP 	text_2: height = 0.03
+4.6635 	EXP 	text_2: text = 'Would you take the vaccine, if given the opportunity?'
+4.6635 	EXP 	text: autoDraw = True
+4.6635 	EXP 	text_2: autoDraw = True
+4.7224 	DATA 	Mouse:  Left button up, pos=(574,309)
+16.1228 	DATA 	Keypress: escape
+16.1565 	EXP 	Framing_HieuLe: status = STOPPED
+16.1717 	EXP 	text: autoDraw = False
+16.1717 	EXP 	text_2: autoDraw = False
+16.1717 	EXP 	Framing_HieuLe: status = STOPPED
+16.2029 	EXP 	window1: mouseVisible = True

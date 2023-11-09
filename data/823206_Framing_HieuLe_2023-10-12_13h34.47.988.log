@@ -1,0 +1,31 @@
+6.0862 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+6.8713 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f80b84fa4f0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f80b84fa490>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f80b84fa310>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f80e8c8cc10>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.8714 	EXP 	window1: mouseVisible = True
+6.8715 	EXP 	window1: backgroundImage = ''
+6.8715 	EXP 	window1: backgroundFit = 'none'
+6.8737 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.8737 	EXP 	window1: recordFrameIntervals = False
+7.0377 	EXP 	window1: recordFrameIntervals = True
+7.2213 	EXP 	Screen (0) actual frame rate measured at 59.74Hz
+7.2213 	EXP 	window1: recordFrameIntervals = False
+7.2224 	EXP 	window1: mouseVisible = False
+9.7070 	EXP 	Framing_HieuLe: status = STARTED
+9.7079 	EXP 	window1: mouseVisible = True
+9.7082 	EXP 	window1: mouseVisible = True
+9.7090 	EXP 	window1: mouseVisible = True
+9.7096 	EXP 	window1: mouseVisible = True
+9.7213 	EXP 	window1: mouseVisible = True
+9.7215 	EXP 	window1: mouseVisible = True
+9.7221 	EXP 	window1: mouseVisible = True
+9.7227 	EXP 	window1: mouseVisible = True
+9.7515 	EXP 	window1: mouseVisible = True
+9.7518 	EXP 	window1: mouseVisible = True
+9.7520 	EXP 	window1: mouseVisible = True
+9.7526 	EXP 	window1: mouseVisible = True
+9.7532 	EXP 	window1: mouseVisible = True
+9.7603 	EXP 	window1: mouseVisible = True
+9.7604 	EXP 	window1: mouseVisible = True
+9.7611 	EXP 	window1: mouseVisible = True
+9.7616 	EXP 	window1: mouseVisible = True
+9.7681 	EXP 	window1: mouseVisible = True
+9.7842 	EXP 	window1: mouseVisible = True
